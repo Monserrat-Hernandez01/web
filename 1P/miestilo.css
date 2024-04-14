@@ -1,0 +1,14 @@
+.navegador {
+    display: flex;
+    background-color: #ebaadd;
+    /* overflow: hidden; */
+}
+.navegador ul il{
+list-style-type: none;
+margin: 0;
+padding: 0;
+color: aqua;
+}
+.navegador button {
+    
+}
